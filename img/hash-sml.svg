@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="29" height="51.922" viewBox="0 0 29 51.922">
+  <g id="XMLID_6_" transform="translate(87.5 -346.6)">
+    <g id="XMLID_10_" transform="translate(-79.218 361.723)">
+      <g id="XMLID_19_">
+        <g id="XMLID_23_" transform="translate(1.854)">
+          <path id="XMLID_25_" d="M-54.382,375.5H-55v21.677h.618V375.5Z" transform="translate(55 -375.5)" fill="#010101" stroke="#707070" stroke-width="1"/>
+          <path id="XMLID_24_" d="M-38.3,375.5v21.677h.618V375.5Z" transform="translate(46.899 -375.5)" fill="#010101" stroke="#707070" stroke-width="1"/>
+        </g>
+        <g id="XMLID_20_" transform="translate(0 7.929)">
+          <path id="XMLID_22_" d="M-45.728,398.918-58.6,400.771v-.618l12.872-1.854Z" transform="translate(58.6 -394.49)" fill="#010101" stroke="#707070" stroke-width="1"/>
+          <path id="XMLID_21_" d="M-45.728,391.518-58.6,393.371v-.618l12.872-1.854Z" transform="translate(58.6 -390.9)" fill="#010101" stroke="#707070" stroke-width="1"/>
+        </g>
+      </g>
+    </g>
+    <path id="XMLID_7_" d="M-59,398.022H-87V347.1h28Zm-27.9-.412h27.788v-50.1H-86.9Z" transform="translate(0 0)" fill="#010101" stroke="#707070" stroke-width="1"/>
+  </g>
+</svg>
